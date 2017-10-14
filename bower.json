@@ -1,0 +1,17 @@
+{
+  "name": "glyphicons-pro",
+  "homepage": "https://github.com/liuhuisheng/glyphicons-pro",
+  "authors": [
+    "twitter.com"
+  ],
+  "description": "",
+  "main": "glyphicons-pro.css",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
